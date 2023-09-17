@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    
+}
+p{
+    background-color: crimson;
+    color: aliceblue;
+    padding: 20px;
+}
+footer{
+    background-color: darkred;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+nav>ul{
+    background-color: chocolate;
+    padding: 10PX;
+    text-align: center;
+}
+ul>a{
+    text-decoration: none;
+    color: aliceblue;
+}
